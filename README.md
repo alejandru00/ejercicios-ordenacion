@@ -1,4 +1,4 @@
-# Ejercicios ordenacion
+# Ejercicios ordenación
 
 ## Usuario: alejandru00
 
