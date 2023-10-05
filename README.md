@@ -3,12 +3,12 @@
 ## Usuario: alejandru00
 
 ## Link:
-[]
+[https://github.com/alejandru00/ejercicios-ordenacion.git]
 
 -------------------------------------------
 ## Enunciados
 
-### 1. Pasando lista
+### A. Pasando lista
 
 Eres profesor de una clase de la que te piden que pases asistencia. Cada alumno, según
 llega a clase, confirma su asistencia y en la lista aparece su número identificador como un
@@ -19,7 +19,7 @@ lista un alumno ya registrado.
 Tu objetivo es, dada la lista de identificadores A con longitud n, obtener el número de
 identificadores únicos en ella sin hacer uso de estructuras adicionales (sets, listas, etc).
 
-### 2. Prevención de riesgos
+### B. Prevención de riesgos
 
 Hay n niños que quieren subir a una noria, y tu tarea es encontrar una góndola para cada
 niño. 
@@ -33,7 +33,7 @@ puede exceder x. Conoces el peso de cada niño.
 
 
 
-### 3. SSIFF
+### C. SSIFF
 
 Se está dando lugar el Festival de Cine de San Sebastián. Tienes el abono completo y
 quieres ver tantas películas como puedas.
